@@ -12,12 +12,13 @@ Kedua belah pihak dengan ini sepakat untuk mengadakan perjanjian kerja sama dala
 ### Pasal 1  
 **MAKSUD DAN TUJUAN**  
 Perjanjian ini dibuat dengan tujuan untuk mengatur kerja sama antara PIHAK PERTAMA dan PIHAK KEDUA dalam hal maintenance jaringan ISP yang mencakup tetapi tidak terbatas pada:
-1. Konfigurasi dan optimasi router Mikrotik.
+1. Konfigurasi dan optimasi router Mikrotik dan OLT.
 2. Pengelolaan dan konfigurasi switch Mikrotik CRS.
-3. Setup dan pemeliharaan DNS recursive server.
-4. Setup dan pemeliharaan Speedtest server.
-5. Troubleshooting dan optimasi jaringan ISP.
-6. Monitoring dan manajemen trafik jaringan.
+3. Setup dan pemeliharaan DNS recursive server jika diperlukan.
+4. Setup dan pemeliharaan Speedtest server jika diperlukan.
+5. Setup dan pemeliharaan GenieACS Server jika diperlukan.
+6. Troubleshooting dan optimasi jaringan ISP jika diperlukan.
+7. Monitoring dan manajemen trafik jaringan jika diperlukan.
 
 ### Pasal 2  
 **RUANG LINGKUP PEKERJAAN**  
